@@ -214,6 +214,13 @@ void hapus()
 int main()
 {
     DoubleLinkedList list;
-  
+    char choice;
+
+    do
+    {
+        cout << "\nMenu:\n";
+       
+
+    } while (choice != '6');
 }
         
